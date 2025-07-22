@@ -1,3 +1,4 @@
+![CLI Screenshot](images/cmdprojects.jpg)
 # 🛠️ Create - Setup & Run Guide
 
 Welcome to the setup guide for this Command Line (CMD) based project. This document will help you get started, from installation to usage.
